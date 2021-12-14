@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">📊 Stats</h1>
 <p align="center">
-  <a href="https://github.com/kimson/github-readme-stats">
+  <a href="https://github.com/kkn1125/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=kkn1125&show_icons=true&theme=cobalt" />
   </a>
 </p>
