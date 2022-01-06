@@ -45,6 +45,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/kkn1125/mkDocumentifyJS">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkn1125&show_owner=true&repo=mkDocumentifyJS" />
   </a>
+  <a href="https://github.com/kkn1125/solitaire">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkn1125&show_owner=true&repo=solitaire" />
+  </a>
 </p>
 
 <h1 align="center">📊 Stats</h1>
