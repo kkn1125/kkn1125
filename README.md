@@ -31,6 +31,13 @@ Here are some ideas to get you started:
   <img align="center" src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white"/>
 </p>
 
+<h1 align="center">📊 Stats</h1>
+<p align="center">
+  <a href="https://github.com/kkn1125/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kkn1125&show_icons=true&theme=cobalt" />
+  </a>
+</p>
+
 <h1 align="center">📌 Pinned</h1>
 <p align="center">
   <a href="https://github.com/kkn1125/kkn1125.github.io">
@@ -47,12 +54,5 @@ Here are some ideas to get you started:
   </a>
   <a href="https://github.com/kkn1125/solitaire">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkn1125&show_owner=true&repo=solitaire" />
-  </a>
-</p>
-
-<h1 align="center">📊 Stats</h1>
-<p align="center">
-  <a href="https://github.com/kkn1125/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kkn1125&show_icons=true&theme=cobalt" />
   </a>
 </p>
