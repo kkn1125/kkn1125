@@ -55,4 +55,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/kkn1125/solitaire">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkn1125&show_owner=true&repo=solitaire" />
   </a>
+  <a href="https://github.com/kkn1125/project-django">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkn1125&show_owner=true&repo=project-django" />
+  </a>
 </p>
