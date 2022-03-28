@@ -45,19 +45,19 @@ Here are some ideas to get you started:
   <a href="https://github.com/kkn1125/kkn1125.github.io">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkn1125&show_owner=true&repo=kkn1125.github.io" />
   </a>
-  <a href="https://github.com/kkn1125/penli">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkn1125&show_owner=true&repo=penli" />
+  <a href="https://github.com/kkn1125/project-django">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkn1125&show_owner=true&repo=project-django" />
   </a>
+<!--   <a href="https://github.com/kkn1125/penli">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkn1125&show_owner=true&repo=penli" />
+  </a> -->
   <a href="https://github.com/kkn1125/typer">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkn1125&show_owner=true&repo=typer" />
   </a>
   <a href="https://github.com/kkn1125/mkDocumentifyJS">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkn1125&show_owner=true&repo=mkDocumentifyJS" />
   </a>
-  <a href="https://github.com/kkn1125/solitaire">
+<!--   <a href="https://github.com/kkn1125/solitaire">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkn1125&show_owner=true&repo=solitaire" />
-  </a>
-  <a href="https://github.com/kkn1125/project-django">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkn1125&show_owner=true&repo=project-django" />
-  </a>
+  </a> -->
 </p>
