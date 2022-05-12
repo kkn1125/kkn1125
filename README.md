@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there 👋</h1>
 
+<div align="center">
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkn1125%2F&count_bg=%23B8852F&title_bg=%23EE4646&icon=smugmug.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+  
+</div>
+
 <h1 align="center">😄 Familiar or Used Stacks</h1>
 <p align="center">
   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
