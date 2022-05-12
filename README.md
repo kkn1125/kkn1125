@@ -44,6 +44,10 @@ Here are some ideas to get you started:
   <a href="https://github.com/kkn1125/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=kkn1125&show_icons=true&theme=cobalt" />
   </a>
+  <a href="https://github.com/kkn1125/github-readme-stats">
+    <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkn1125&layout=compact" height="195" />
+  </a>
+  
 </p>
 
 <h1 align="center">📌 Pinned</h1>
@@ -52,7 +56,7 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkn1125&show_owner=true&repo=mkDocumentifyJS" />
   </a>
   <a href="https://github.com/kkn1125/treeparser">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkn1125&show_owner=true&repo=treeparser" />
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkn1125&show_owner=true&repo=treeparser" />
   </a>
   <a href="https://github.com/kkn1125/kkn1125.github.io">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkn1125&show_owner=true&repo=kkn1125.github.io" />
