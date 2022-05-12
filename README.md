@@ -42,10 +42,10 @@ Here are some ideas to get you started:
 <h1 align="center">📊 Stats</h1>
 <p align="center">
   <a href="https://github.com/kkn1125/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kkn1125&show_icons=true&theme=cobalt" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kkn1125&show_icons=true&theme=cobalt&locale=kr" />
   </a>
   <a href="https://github.com/kkn1125/github-readme-stats">
-    <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkn1125&layout=compact" height="195" />
+    <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkn1125&layout=compact&theme=cobalt&locale=kr" height="195" />
   </a>
   
 </p>
@@ -53,22 +53,22 @@ Here are some ideas to get you started:
 <h1 align="center">📌 Pinned</h1>
 <p align="center">
   <a href="https://github.com/kkn1125/mkDocumentifyJS">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkn1125&show_owner=true&repo=mkDocumentifyJS" />
+    <img height="150" width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkn1125&show_owner=true&repo=mkDocumentifyJS" />
   </a>
   <a href="https://github.com/kkn1125/treeparser">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkn1125&show_owner=true&repo=treeparser" />
+    <img height="150" width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkn1125&show_owner=true&repo=treeparser" />
   </a>
   <a href="https://github.com/kkn1125/kkn1125.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkn1125&show_owner=true&repo=kkn1125.github.io" />
+    <img height="150" width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkn1125&show_owner=true&repo=kkn1125.github.io" />
   </a>
   <a href="https://github.com/kkn1125/project-django">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkn1125&show_owner=true&repo=project-django" />
+    <img height="150" width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkn1125&show_owner=true&repo=project-django" />
   </a>
 <!--   <a href="https://github.com/kkn1125/penli">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkn1125&show_owner=true&repo=penli" />
   </a> -->
   <a href="https://github.com/kkn1125/typer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkn1125&show_owner=true&repo=typer" />
+    <img height="150" width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkn1125&show_owner=true&repo=typer" />
   </a>
 <!--   <a href="https://github.com/kkn1125/solitaire">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkn1125&show_owner=true&repo=solitaire" />
