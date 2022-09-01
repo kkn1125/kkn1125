@@ -24,8 +24,16 @@ Here are some ideas to get you started:
   
 </div>
 
-<h1 align="center">😄 Familiar or Used Stacks</h1>
+<h2>📑 Resume</h1>
 
+- [Portfolio](https://kkn1125.github.io/portfolio)
+
+<h2>🗂️ Projects</h1>
+
+- [Project Narang Repository](https://github.com/kkn1125/narang) [Demo Site](https://narang.ml)
+- [Mentees Repository](https://github.com/kkn1125/mentees) [Demo Site](https://menteesprj.herokuapp.com/)
+
+<h2>😄 Familiar or Used Stacks</h1>
 
 <p align="center">
   <h3>Programming Language</h3>
@@ -128,8 +136,12 @@ Here are some ideas to get you started:
   
 </p>
 
+<!--
+
 <h1 align="center">📌 Pinned</h1>
+
 <p align="center">
+
   <a href="https://github.com/kkn1125/mkDocumentifyJS">
     <img height="150" width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkn1125&show_owner=true&repo=mkDocumentifyJS" />
   </a>
@@ -142,13 +154,8 @@ Here are some ideas to get you started:
   <a href="https://github.com/kkn1125/project-django">
     <img height="150" width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkn1125&show_owner=true&repo=project-django" />
   </a>
-<!--   <a href="https://github.com/kkn1125/penli">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkn1125&show_owner=true&repo=penli" />
-  </a> -->
   <a href="https://github.com/kkn1125/typer">
     <img height="150" width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkn1125&show_owner=true&repo=typer" />
   </a>
-<!--   <a href="https://github.com/kkn1125/solitaire">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkn1125&show_owner=true&repo=solitaire" />
-  </a> -->
-</p>
+  
+</p> -->
