@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 <h2>🗂️ Projects</h1>
 
-- [Project Narang Repository](https://github.com/kkn1125/narang) [Demo Site](https://narang.ml)
-- [Mentees Repository](https://github.com/kkn1125/mentees) [Demo Site](https://menteesprj.herokuapp.com/)
+- [Project Narang Repository](https://github.com/kkn1125/narang) | [Demo Site](https://narang.ml)
+- [Mentees Repository](https://github.com/kkn1125/mentees) | [Demo Site](https://menteesprj.herokuapp.com/)
 
 <h2>😄 Familiar or Used Stacks</h1>
 
