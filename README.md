@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 
 - [Project Narang Repository](https://github.com/kkn1125/narang) | [Demo Site](https://narang.ml)
 - [Mentees Repository](https://github.com/kkn1125/mentees) | [Demo Site](https://menteesprj.herokuapp.com/)
+- [Mentees Express Repository](https://github.com/kkn1125/mentees-express) | [Demo Site] 준비 중 입니다.
 
 <h2>😄 Familiar or Used Stacks</h1>
 
