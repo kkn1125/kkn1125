@@ -130,10 +130,10 @@ Here are some ideas to get you started:
 <h2>📊 Stats</h2>
 <p align="center">
   <a href="https://github.com/kkn1125/github-readme-stats">
-    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=kkn1125&show_icons=true&theme=cobalt&locale=kr" />
+    <img height="200vh" align="center" src="https://github-readme-stats.vercel.app/api?username=kkn1125&show_icons=true&theme=cobalt&locale=kr" />
   </a>
   <a href="https://github.com/kkn1125/github-readme-stats">
-    <img height="180" align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkn1125&layout=compact&theme=cobalt&locale=kr" height="195" />
+    <img height="200vh" align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkn1125&layout=compact&theme=cobalt&locale=kr" height="195" />
   </a>
   
 </p>
