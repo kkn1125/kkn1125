@@ -25,17 +25,17 @@ Here are some ideas to get you started:
   
 </div>
 
-<h2>📑 Resume</h1>
+<h2>📑 Resume</h2>
 
 - [Portfolio](https://kkn1125.github.io/portfolio)
 
-<h2>🗂️ Projects</h1>
+<h2>🗂️ Projects</h2>
 
 - [Project Narang Repository](https://github.com/kkn1125/narang) | [Demo Site](https://narang.ml)
 - [Mentees Repository](https://github.com/kkn1125/mentees) | [Demo Site](https://menteesprj.herokuapp.com/)
 - [Mentees Express Repository](https://github.com/kkn1125/mentees-express) | [Demo Site] 준비 중 입니다.
 
-<h2>😄 Familiar or Used Stacks</h1>
+<h2>😄 Familiar or Used Stacks</h2>
 
 <p align="center">
   <h3>Programming Language</h3>
@@ -127,7 +127,7 @@ Here are some ideas to get you started:
   </span>
 </p>
 
-<h1 align="center">📊 Stats</h1>
+<h2>📊 Stats</h2>
 <p align="center">
   <a href="https://github.com/kkn1125/github-readme-stats">
     <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=kkn1125&show_icons=true&theme=cobalt&locale=kr" />
@@ -140,7 +140,7 @@ Here are some ideas to get you started:
 
 <!--
 
-<h1 align="center">📌 Pinned</h1>
+<h2>📌 Pinned</h2>
 
 <p align="center">
 
