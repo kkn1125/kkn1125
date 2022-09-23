@@ -161,3 +161,9 @@ Here are some ideas to get you started:
   </a>
   
 </p> -->
+
+<a href="https://kkn1125.github.io/portfolio">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EC%97%90%20%EB%8D%94%20%EB%A7%8E%EC%9D%80%20%EB%82%B4%EC%9A%A9%EC%9D%B4%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4!&fontSize=30&fontAlignY=70)
+
+</a>
