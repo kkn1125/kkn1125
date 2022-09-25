@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 <h2>📑 Resume</h2>
 
-- [Portfolio](https://kkn1125.github.io/portfolio)
-- [Blog](https://kkn1125.github.io)
+- [Portfolio](https://kkn1125.github.io/portfolio) | [Portfolio Github](https://github.io/kkn1125/portfolio)
+- [Blog](https://kkn1125.github.io) | [Blog Github](https://github.io/kkn1125/kkn1125.github.io)
 
 <h2>🗂️ Projects</h2>
 
