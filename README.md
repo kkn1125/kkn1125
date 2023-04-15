@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there 👋</h1>
 
-<p align="center">자기주도적 개발을 선호하고 전체적인 그림을 보기 위해 다양한 기술을 습득하기 좋아하는 웹 개발자입니다.</p>
+<p align="center">자기주도적 개발을 선호하고 전체적인 그림을 보기 위해 다양한 기술을 습득하는 웹 개발자입니다.</p>
 
 <div align="center">
   
