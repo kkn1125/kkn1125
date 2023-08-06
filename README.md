@@ -41,40 +41,47 @@ Here are some ideas to get you started:
 <p align="center">
   <h3>Programming Language</h3>
   <span>
+    <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/Python-407dae?style=flat-square&logo=Python&logoColor=white"/>
+    <!--
+    -->
   </span>
   
   <h3>Front-end</h3>
   <span>
-    <img align="center" src="https://img.shields.io/badge/sass-1572B6?style=flat-square&logo=sass&logoColor=white"/>
-    <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/Next-black?style=flat-square&logo=Next.js&logoColor=ffffff"/>
+    <img align="center" src="https://img.shields.io/badge/Sass-1572B6?style=flat-square&logo=Sass&logoColor=white"/>
+    <!--
+    <img align="center" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/Redux-purple?style=flat-square&logo=Redux&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/>
-    <img align="center" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-    <img align="center" src="https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white"/>
-    <img align="center" src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/ANTD-0170FE?style=flat-square&logo=Ant%20Design&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/Semantic%20UI%20React-35BDB2?style=flat-square&logo=Semantic%20UI%20React&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/Jekyll-CC0000?style=flat-square&logo=Jekyll&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white"/>
+    -->
   </span>
   
   <h3>Back-end</h3>
   <span>
     <img align="center" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-    <img align="center" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
-    <img align="center" src="https://img.shields.io/badge/fastify-000000?style=flat-square&logo=fastify&logoColor=white"/>
-    <img align="center" src="https://img.shields.io/badge/Django-0c4b33?style=flat-square&logo=Django&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/badge/Express-ffffff?style=flat-square&logo=Express&logoColor=000000"/>
     <img align="center" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/badge/Django-0c4b33?style=flat-square&logo=Django&logoColor=white"/>
   </span>
   
   <h3>Databases</h3>
   <span>
+    <img align="center" src="https://img.shields.io/badge/Mariadb-003545?style=flat-square&logo=mariadb&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
@@ -83,23 +90,32 @@ Here are some ideas to get you started:
   
   <h3>Dev-ops</h3>
   <span>
+    <img align="center" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+    <!--
     <img align="center" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/badge/Chocolatey-80B5E3?style=flat-square&logo=Chocolatey&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
-    <img align="center" src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
-    <img align="center" src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white"/>
-    <img align="center" src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white"/>
-    <img align="center" src="https://img.shields.io/badge/Chocolatey-80B5E3?style=flat-square&logo=Chocolatey&logoColor=white"/>
-    <img align="center" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+    -->
   </span>
-  
-  <h3>Media + WebRTC + socket server</h3>
+
+  <h3>Socket</h3>
   <span>
     <img align="center" src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white"/>
+  </span>
+  
+  <h3>Media</h3>
+  <span>
     <img align="center" src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=WebRTC&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=FFmpeg&logoColor=white"/>
   </span>
-  
+
+  <!--
   <h3>Blockchain + metamask</h3>
   <span>
     <img align="center" src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=Web3.js&logoColor=white"/>
@@ -108,8 +124,8 @@ Here are some ideas to get you started:
     <img align="center" src="https://img.shields.io/badge/MetaMask-FB542B?style=flat-square&logo=MetaMask&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/Ganache.js-e4a663?style=flat-square&logo=Ganache.js&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/Truffle-5e464d?style=flat-square&logo=Truffle.js&logoColor=white"/>
-    
   </span>
+  -->
   
   <h3>Secure</h3>
   <span>
@@ -124,7 +140,7 @@ Here are some ideas to get you started:
   
   <h3>Shell</h3>
   <span>
-    <img align="center" src="https://img.shields.io/badge/Shell-FFD500?style=flat-square&logo=Shell&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/badge/Bash-FFD500?style=flat-square&logo=Bash&logoColor=white"/>
   </span>
 </p>
 
