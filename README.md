@@ -72,6 +72,7 @@ Here are some ideas to get you started:
   <h3>Back-end</h3>
   <span>
     <img align="center" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/Express-ffffff?style=flat-square&logo=Express&logoColor=000000"/>
     <img align="center" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
