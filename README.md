@@ -27,14 +27,18 @@ Here are some ideas to get you started:
 
 <h2>📑 Resume</h2>
 
-- [Portfolio](https://kkn1125.github.io/portfolio) | [Portfolio Github](https://github.com/kkn1125/portfolio) ⇒ [New Portfolio](https://kkn1125.github.io/portfolio-renew) | [New Portfolio Github](https://github.com/kkn1125/portfolio-renew)
-- [Blog](https://kkn1125.github.io) | [Blog Github](https://github.com/kkn1125/kkn1125.github.io)
+|Github Repo|Site|
+|---|---|
+|[Blog](https://kkn1125.github.io) | [Blog Github](https://github.com/kkn1125/kkn1125.github.io)|
+|[New Portfolio Github](https://github.com/kkn1125/portfolio-renew) | [New Portfolio](https://kkn1125.github.io/portfolio-renew) |
 
 <h2>🗂️ Projects</h2>
 
-- [Project Narang Repository](https://github.com/kkn1125/narang) | [Demo Site](https://narang.ml)
-- [Mentees Repository](https://github.com/kkn1125/mentees) | [Demo Site](https://menteesprj.herokuapp.com/)
-- [Mentees Express Repository](https://github.com/kkn1125/mentees-express) | [Demo Site] 준비 중 입니다.
+|Github Repo|Demo site|
+|---|---|
+|[[Project] Narang Repository](https://github.com/kkn1125/narang) | No Demo|
+|[[Project] Mentee Union Repository](https://github.com/kkn1125/project-mentee-union) | [Demo Site](https://menteeunion.kro.kr)|
+|[[NPM module] Typoz](https://github.com/AnyRequest/typoz) | [Demo Site](https://anyrequest.github.io/typoz/)|
 
 <h2>😄 Familiar or Used Stacks</h2>
 
@@ -71,10 +75,10 @@ Here are some ideas to get you started:
   
   <h3>Back-end</h3>
   <span>
-    <img align="center" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/Express-ffffff?style=flat-square&logo=Express&logoColor=000000"/>
+    <img align="center" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/Django-0c4b33?style=flat-square&logo=Django&logoColor=white"/>
