@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 |Github Repo|Site|
 |---|---|
-|[Blog](https://kkn1125.github.io) | [Blog Github](https://github.com/kkn1125/kkn1125.github.io)|
+|[Blog Github](https://github.com/kkn1125/kkn1125.github.io) | [Blog](https://kkn1125.github.io) |
 |[New Portfolio Github](https://github.com/kkn1125/portfolio-renew) | [New Portfolio](https://kkn1125.github.io/portfolio-renew) |
 
 <h2>🗂️ Projects</h2>
