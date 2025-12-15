@@ -19,12 +19,6 @@ Here are some ideas to get you started:
 
 <p align="center">자기주도적 개발을 선호하고 전체적인 그림을 보기 위해 다양한 기술을 습득하는 웹 개발자입니다.</p>
 
-<div align="center">
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkn1125%2F&count_bg=%23B8852F&title_bg=%23EE4646&icon=smugmug.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-  
-</div>
-
 <h2>📑 Resume</h2>
 
 |Github Repo|Site|
