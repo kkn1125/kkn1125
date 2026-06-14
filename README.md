@@ -51,29 +51,35 @@
 
 ## Tech Stack
 
-**Languages**
+<div align="center">
+  <img src="./assets/tech-stack.svg" width="520" alt="Java, JavaScript, TypeScript, Python, Spring, NestJS, Node.js, Express, Django, React, Next.js, Vite, MUI, Sass, MySQL, PostgreSQL, MongoDB, GraphQL, Docker, Jenkins, Nginx, Bash, Git and Jest" />
+</div>
 
-`Java` `JavaScript` `TypeScript` `Python`
+<details>
+<summary><strong>Stack details</strong></summary>
+<br />
 
-**Backend**
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | Java, JavaScript, TypeScript, Python |
+| **Backend** | Spring Boot, NestJS, Node.js, Fastify, Express, Django |
+| **Frontend** | React, Next.js, Vite, MUI, Sass |
+| **Data** | MariaDB, MySQL, PostgreSQL, MongoDB, GraphQL |
+| **Infrastructure** | Docker, Jenkins, Nginx, Bash, Git |
+| **Web & Media** | Socket.IO, WebRTC, FFmpeg, JWT, NextAuth.js |
+| **Testing** | Jest |
 
-`Spring Boot` `NestJS` `Node.js` `Fastify` `Express` `Django`
+</details>
 
-**Frontend**
+## Contribution Graph
 
-`React` `Next.js` `Vite` `MUI` `Sass`
-
-**Data**
-
-`MariaDB` `MySQL` `PostgreSQL` `MongoDB` `GraphQL`
-
-**Infrastructure & Tools**
-
-`Docker` `Jenkins` `Nginx` `Bash` `Git` `Jest`
-
-**Web & Media**
-
-`Socket.IO` `WebRTC` `FFmpeg` `JWT` `NextAuth.js`
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kkn1125/kkn1125/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kkn1125/kkn1125/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/kkn1125/kkn1125/output/github-contribution-grid-snake.svg" alt="GitHub contribution graph animation" />
+  </picture>
+</div>
 
 ---
 
