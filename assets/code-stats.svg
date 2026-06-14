@@ -29,25 +29,25 @@
 
   <text x="110" y="84" class="eyebrow">PUBLIC CODE LANDSCAPE</text>
   <text x="108" y="126" class="heading">What I have built with</text>
-  <text x="108" y="154" class="muted">Owned public repositories · forks and archived projects excluded · updated 2026-06-14</text>
+  <text x="108" y="154" class="muted">Owned public repositories · forks and archived projects excluded · updated 2026-06-15</text>
 
   <g transform="translate(720 76)">
     <text x="0" y="25" class="stat">204</text>
     <text x="0" y="50" class="stat-label">repositories</text>
-    <text x="150" y="25" class="stat">15</text>
+    <text x="150" y="25" class="stat">35</text>
     <text x="150" y="50" class="stat-label">languages</text>
-    <text x="300" y="25" class="stat">978.6 MB</text>
-    <text x="300" y="50" class="stat-label">repository data</text>
+    <text x="300" y="25" class="stat">31.1 MB</text>
+    <text x="300" y="50" class="stat-label">code indexed</text>
   </g>
 
   <g clip-path="url(#language-bar)">
-    <rect x="140" y="203" width="427.54" height="18" fill="#F7DF1E"/>
-<rect x="567.5392991146971" y="203" width="404.31" height="18" fill="#3178C6"/>
-<rect x="971.8465883545463" y="203" width="53.92" height="18" fill="hsl(284 70% 62%)"/>
-<rect x="1025.7653824459867" y="203" width="8.18" height="18" fill="hsl(331 70% 62%)"/>
-<rect x="1033.9430724836714" y="203" width="7.58" height="18" fill="#3572A5"/>
-<rect x="1041.5266367478398" y="203" width="6.25" height="18" fill="#E34C26"/>
-<rect x="1047.7790584561558" y="203" width="5.86" height="18" fill="#555555"/>
+    <rect x="140" y="203" width="274.96" height="18" fill="#F7DF1E"/>
+<rect x="414.96409475298924" y="203" width="270.31" height="18" fill="#3178C6"/>
+<rect x="685.2713731852057" y="203" width="130.79" height="18" fill="#555555"/>
+<rect x="816.0575263941406" y="203" width="104.38" height="18" fill="#E34C26"/>
+<rect x="920.4411302481626" y="203" width="46.16" height="18" fill="hsl(18 70% 62%)"/>
+<rect x="966.600024352139" y="203" width="24.31" height="18" fill="#563D7C"/>
+<rect x="990.911260393099" y="203" width="16.65" height="18" fill="#3572A5"/>
   </g>
 
   <text x="140" y="256" class="section">LANGUAGE MIX</text>
@@ -55,25 +55,25 @@
   
         <circle cx="145" cy="263" r="5" fill="#F7DF1E"/>
         <text x="160" y="268" class="label">JavaScript</text>
-        <text x="385" y="268" text-anchor="end" class="value">46.5%</text>
+        <text x="385" y="268" text-anchor="end" class="value">29.9%</text>
         <circle cx="145" cy="307" r="5" fill="#3178C6"/>
         <text x="160" y="312" class="label">TypeScript</text>
-        <text x="385" y="312" text-anchor="end" class="value">43.9%</text>
-        <circle cx="145" cy="351" r="5" fill="hsl(284 70% 62%)"/>
-        <text x="160" y="356" class="label">MDX</text>
-        <text x="385" y="356" text-anchor="end" class="value">5.9%</text>
-        <circle cx="145" cy="395" r="5" fill="hsl(331 70% 62%)"/>
-        <text x="160" y="400" class="label">C#</text>
-        <text x="385" y="400" text-anchor="end" class="value">0.9%</text>
-        <circle cx="515" cy="263" r="5" fill="#3572A5"/>
-        <text x="530" y="268" class="label">Python</text>
-        <text x="755" y="268" text-anchor="end" class="value">0.8%</text>
-        <circle cx="515" cy="307" r="5" fill="#E34C26"/>
-        <text x="530" y="312" class="label">HTML</text>
-        <text x="755" y="312" text-anchor="end" class="value">0.7%</text>
-        <circle cx="515" cy="351" r="5" fill="#555555"/>
-        <text x="530" y="356" class="label">C</text>
-        <text x="755" y="356" text-anchor="end" class="value">0.6%</text>
+        <text x="385" y="312" text-anchor="end" class="value">29.4%</text>
+        <circle cx="145" cy="351" r="5" fill="#555555"/>
+        <text x="160" y="356" class="label">C</text>
+        <text x="385" y="356" text-anchor="end" class="value">14.2%</text>
+        <circle cx="145" cy="395" r="5" fill="#E34C26"/>
+        <text x="160" y="400" class="label">HTML</text>
+        <text x="385" y="400" text-anchor="end" class="value">11.3%</text>
+        <circle cx="515" cy="263" r="5" fill="hsl(18 70% 62%)"/>
+        <text x="530" y="268" class="label">MDX</text>
+        <text x="755" y="268" text-anchor="end" class="value">5.0%</text>
+        <circle cx="515" cy="307" r="5" fill="#563D7C"/>
+        <text x="530" y="312" class="label">CSS</text>
+        <text x="755" y="312" text-anchor="end" class="value">2.6%</text>
+        <circle cx="515" cy="351" r="5" fill="#3572A5"/>
+        <text x="530" y="356" class="label">Python</text>
+        <text x="755" y="356" text-anchor="end" class="value">1.8%</text>
   
         <circle cx="865" cy="263" r="5" fill="#3178C6"/>
         <text x="880" y="268" class="repo">portfolio-renew</text>
@@ -92,6 +92,6 @@
         <text x="1100" y="444" text-anchor="end" class="muted">TypeScript</text>
 
   <line x1="820" y1="246" x2="820" y2="448" stroke="#334155"/>
-  <text x="140" y="482" class="muted">Initial snapshot based on primary language and repository size</text>
+  <text x="140" y="482" class="muted">Based on GitHub Linguist language-byte statistics</text>
   <text x="1060" y="482" text-anchor="end" class="muted">github.com/kkn1125</text>
 </svg>
