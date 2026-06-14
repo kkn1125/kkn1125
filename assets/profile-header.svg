@@ -1,0 +1,57 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Kimson, Backend Developer</title>
+  <desc id="desc">A dark navy developer profile banner with blue and mint geometric accents.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="70" y1="20" x2="1130" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="0.55" stop-color="#111D33"/>
+      <stop offset="1" stop-color="#0D1729"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="108" y1="108" x2="360" y2="290" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#5EEAD4"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1030 40) rotate(132) scale(390 530)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="28"/>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#94A3B8" stroke-opacity="0.07"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#background)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#glow)"/>
+
+  <circle cx="1000" cy="70" r="120" fill="#2563EB" fill-opacity="0.12" filter="url(#blur)"/>
+  <circle cx="1080" cy="300" r="100" fill="#2DD4BF" fill-opacity="0.1" filter="url(#blur)"/>
+
+  <g opacity="0.72">
+    <path d="M942 73L1101 73" stroke="#60A5FA" stroke-width="2"/>
+    <path d="M1021 26V120" stroke="#60A5FA" stroke-width="2"/>
+    <circle cx="1021" cy="73" r="11" fill="#0F1B30" stroke="#60A5FA" stroke-width="3"/>
+    <circle cx="1101" cy="73" r="5" fill="#5EEAD4"/>
+    <circle cx="942" cy="73" r="5" fill="#60A5FA"/>
+  </g>
+
+  <g opacity="0.6">
+    <path d="M920 248H1120" stroke="#334155" stroke-width="2"/>
+    <path d="M956 210L994 248L956 286" stroke="#5EEAD4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1084 210L1046 248L1084 286" stroke="#60A5FA" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1029 198L1010 298" stroke="#94A3B8" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <rect x="82" y="78" width="10" height="204" rx="5" fill="url(#accent)"/>
+
+  <text x="126" y="128" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" letter-spacing="4">HELLO, I'M</text>
+  <text x="122" y="206" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700" letter-spacing="-2">Kimson</text>
+  <text x="126" y="253" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600" letter-spacing="1">BACKEND · WEB · ENGINEERING</text>
+
+  <circle cx="126" cy="298" r="4" fill="#5EEAD4"/>
+  <text x="143" y="304" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="16">Designing reliable systems, one clear decision at a time.</text>
+</svg>
