@@ -71,6 +71,12 @@
 
 </details>
 
+## Code Landscape
+
+<div align="center">
+  <img src="./assets/code-stats.svg" width="100%" alt="Language usage and recently updated public repositories" />
+</div>
+
 ## Contribution Graph
 
 <div align="center">
