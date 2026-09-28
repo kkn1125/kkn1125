@@ -29,7 +29,7 @@
 
   <text x="110" y="84" class="eyebrow">PUBLIC CODE LANDSCAPE</text>
   <text x="108" y="126" class="heading">What I have built with</text>
-  <text x="108" y="154" class="muted">Owned public repositories · forks and archived projects excluded · updated 2026-09-28</text>
+  <text x="108" y="154" class="muted">Owned public repositories · forks and archived projects excluded · updated 2026-09-29</text>
 
   <g transform="translate(720 76)">
     <text x="0" y="25" class="stat">206</text>
@@ -41,13 +41,13 @@
   </g>
 
   <g clip-path="url(#language-bar)">
-    <rect x="140" y="203" width="274.81" height="18" fill="#F7DF1E"/>
-<rect x="414.81447258195976" y="203" width="270.18" height="18" fill="#3178C6"/>
-<rect x="684.9947231438639" y="203" width="130.71" height="18" fill="#555555"/>
-<rect x="815.7097088492696" y="203" width="104.33" height="18" fill="#E34C26"/>
-<rect x="920.0365121910555" y="203" width="46.13" height="18" fill="hsl(18 70% 62%)"/>
-<rect x="966.1702888557737" y="203" width="24.30" height="18" fill="#563D7C"/>
-<rect x="990.4682958970706" y="203" width="17.13" height="18" fill="#3572A5"/>
+    <rect x="140" y="203" width="274.77" height="18" fill="#F7DF1E"/>
+<rect x="414.77044819145823" y="203" width="270.28" height="18" fill="#3178C6"/>
+<rect x="685.0547977774644" y="203" width="130.69" height="18" fill="#555555"/>
+<rect x="815.7488433645386" y="203" width="104.31" height="18" fill="#E34C26"/>
+<rect x="920.0589338895396" y="203" width="46.13" height="18" fill="hsl(18 70% 62%)"/>
+<rect x="966.1853200723078" y="203" width="24.29" height="18" fill="#563D7C"/>
+<rect x="990.4794346513906" y="203" width="17.12" height="18" fill="#3572A5"/>
   </g>
 
   <text x="140" y="256" class="section">LANGUAGE MIX</text>
@@ -75,12 +75,12 @@
         <text x="530" y="356" class="label">Python</text>
         <text x="755" y="356" text-anchor="end" class="value">1.9%</text>
   
-        <circle cx="865" cy="263" r="5" fill="#3572A5"/>
-        <text x="880" y="268" class="repo">devkimson-skills</text>
-        <text x="1100" y="268" text-anchor="end" class="muted">Python</text>
-        <circle cx="865" cy="307" r="5" fill="#3178C6"/>
-        <text x="880" y="312" class="repo">portfolio-renew</text>
-        <text x="1100" y="312" text-anchor="end" class="muted">TypeScript</text>
+        <circle cx="865" cy="263" r="5" fill="#3178C6"/>
+        <text x="880" y="268" class="repo">portfolio-renew</text>
+        <text x="1100" y="268" text-anchor="end" class="muted">TypeScript</text>
+        <circle cx="865" cy="307" r="5" fill="#3572A5"/>
+        <text x="880" y="312" class="repo">devkimson-skills</text>
+        <text x="1100" y="312" text-anchor="end" class="muted">Python</text>
         <circle cx="865" cy="351" r="5" fill="#3178C6"/>
         <text x="880" y="356" class="repo">vscode-extension-nestjs-…</text>
         <text x="1100" y="356" text-anchor="end" class="muted">TypeScript</text>
