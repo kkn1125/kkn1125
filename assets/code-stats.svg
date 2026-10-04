@@ -29,7 +29,7 @@
 
   <text x="110" y="84" class="eyebrow">PUBLIC CODE LANDSCAPE</text>
   <text x="108" y="126" class="heading">What I have built with</text>
-  <text x="108" y="154" class="muted">Owned public repositories · forks and archived projects excluded · updated 2026-10-04</text>
+  <text x="108" y="154" class="muted">Owned public repositories · forks and archived projects excluded · updated 2026-10-05</text>
 
   <g transform="translate(720 76)">
     <text x="0" y="25" class="stat">206</text>
@@ -41,13 +41,13 @@
   </g>
 
   <g clip-path="url(#language-bar)">
-    <rect x="140" y="203" width="274.77" height="18" fill="#F7DF1E"/>
-<rect x="414.77044819145823" y="203" width="270.28" height="18" fill="#3178C6"/>
-<rect x="685.0547977774644" y="203" width="130.69" height="18" fill="#555555"/>
-<rect x="815.7488433645386" y="203" width="104.31" height="18" fill="#E34C26"/>
-<rect x="920.0589338895396" y="203" width="46.13" height="18" fill="hsl(18 70% 62%)"/>
-<rect x="966.1853200723078" y="203" width="24.29" height="18" fill="#563D7C"/>
-<rect x="990.4794346513906" y="203" width="17.12" height="18" fill="#3572A5"/>
+    <rect x="140" y="203" width="274.96" height="18" fill="#F7DF1E"/>
+<rect x="414.9566451641302" y="203" width="269.08" height="18" fill="#3178C6"/>
+<rect x="684.0327632937745" y="203" width="130.78" height="18" fill="#555555"/>
+<rect x="814.8153731198151" y="203" width="104.37" height="18" fill="#E34C26"/>
+<rect x="919.1842190057762" y="203" width="46.16" height="18" fill="hsl(18 70% 62%)"/>
+<rect x="965.3418625290774" y="203" width="24.31" height="18" fill="#563D7C"/>
+<rect x="989.6524399069006" y="203" width="17.13" height="18" fill="#3572A5"/>
   </g>
 
   <text x="140" y="256" class="section">LANGUAGE MIX</text>
@@ -58,7 +58,7 @@
         <text x="385" y="268" text-anchor="end" class="value">29.9%</text>
         <circle cx="145" cy="307" r="5" fill="#3178C6"/>
         <text x="160" y="312" class="label">TypeScript</text>
-        <text x="385" y="312" text-anchor="end" class="value">29.4%</text>
+        <text x="385" y="312" text-anchor="end" class="value">29.2%</text>
         <circle cx="145" cy="351" r="5" fill="#555555"/>
         <text x="160" y="356" class="label">C</text>
         <text x="385" y="356" text-anchor="end" class="value">14.2%</text>
