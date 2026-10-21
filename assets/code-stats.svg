@@ -29,7 +29,7 @@
 
   <text x="110" y="84" class="eyebrow">PUBLIC CODE LANDSCAPE</text>
   <text x="108" y="126" class="heading">What I have built with</text>
-  <text x="108" y="154" class="muted">Owned public repositories · forks and archived projects excluded · updated 2026-10-21</text>
+  <text x="108" y="154" class="muted">Owned public repositories · forks and archived projects excluded · updated 2026-10-22</text>
 
   <g transform="translate(720 76)">
     <text x="0" y="25" class="stat">206</text>
@@ -41,13 +41,13 @@
   </g>
 
   <g clip-path="url(#language-bar)">
-    <rect x="140" y="203" width="266.45" height="18" fill="#F7DF1E"/>
-<rect x="406.4484077656148" y="203" width="256.89" height="18" fill="#3178C6"/>
-<rect x="663.3411232078224" y="203" width="124.75" height="18" fill="#555555"/>
-<rect x="788.0922898167249" y="203" width="99.56" height="18" fill="#E34C26"/>
-<rect x="887.6478446356493" y="203" width="50.49" height="18" fill="#3572A5"/>
-<rect x="938.1414857285694" y="203" width="44.03" height="18" fill="hsl(65 70% 62%)"/>
-<rect x="982.1704272301109" y="203" width="23.30" height="18" fill="#563D7C"/>
+    <rect x="140" y="203" width="266.38" height="18" fill="#F7DF1E"/>
+<rect x="406.38041611003837" y="203" width="256.83" height="18" fill="#3178C6"/>
+<rect x="663.2075782949573" y="203" width="124.72" height="18" fill="#555555"/>
+<rect x="787.9269112050813" y="203" width="99.58" height="18" fill="#E34C26"/>
+<rect x="887.5046580031491" y="203" width="50.67" height="18" fill="#3572A5"/>
+<rect x="938.1725812873715" y="203" width="44.02" height="18" fill="hsl(65 70% 62%)"/>
+<rect x="982.1902875908833" y="203" width="23.30" height="18" fill="#563D7C"/>
   </g>
 
   <text x="140" y="256" class="section">LANGUAGE MIX</text>
