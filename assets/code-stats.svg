@@ -29,7 +29,7 @@
 
   <text x="110" y="84" class="eyebrow">PUBLIC CODE LANDSCAPE</text>
   <text x="108" y="126" class="heading">What I have built with</text>
-  <text x="108" y="154" class="muted">Owned public repositories · forks and archived projects excluded · updated 2026-11-06</text>
+  <text x="108" y="154" class="muted">Owned public repositories · forks and archived projects excluded · updated 2026-11-07</text>
 
   <g transform="translate(720 76)">
     <text x="0" y="25" class="stat">206</text>
@@ -41,13 +41,13 @@
   </g>
 
   <g clip-path="url(#language-bar)">
-    <rect x="140" y="203" width="266.38" height="18" fill="#F7DF1E"/>
-<rect x="406.38041611003837" y="203" width="256.83" height="18" fill="#3178C6"/>
-<rect x="663.2075782949573" y="203" width="124.72" height="18" fill="#555555"/>
-<rect x="787.9269112050813" y="203" width="99.58" height="18" fill="#E34C26"/>
-<rect x="887.5046580031491" y="203" width="50.67" height="18" fill="#3572A5"/>
-<rect x="938.1725812873715" y="203" width="44.02" height="18" fill="hsl(65 70% 62%)"/>
-<rect x="982.1902875908833" y="203" width="23.30" height="18" fill="#563D7C"/>
+    <rect x="140" y="203" width="266.96" height="18" fill="#F7DF1E"/>
+<rect x="406.9564018846047" y="203" width="256.59" height="18" fill="#3178C6"/>
+<rect x="663.5459265867944" y="203" width="124.60" height="18" fill="#555555"/>
+<rect x="788.1498589759287" y="203" width="99.49" height="18" fill="#E34C26"/>
+<rect x="887.635468303475" y="203" width="50.65" height="18" fill="#3572A5"/>
+<rect x="938.2846854805448" y="203" width="43.98" height="18" fill="hsl(65 70% 62%)"/>
+<rect x="982.2616630043103" y="203" width="23.28" height="18" fill="#563D7C"/>
   </g>
 
   <text x="140" y="256" class="section">LANGUAGE MIX</text>
@@ -61,7 +61,7 @@
         <text x="385" y="312" text-anchor="end" class="value">27.9%</text>
         <circle cx="145" cy="351" r="5" fill="#555555"/>
         <text x="160" y="356" class="label">C</text>
-        <text x="385" y="356" text-anchor="end" class="value">13.6%</text>
+        <text x="385" y="356" text-anchor="end" class="value">13.5%</text>
         <circle cx="145" cy="395" r="5" fill="#E34C26"/>
         <text x="160" y="400" class="label">HTML</text>
         <text x="385" y="400" text-anchor="end" class="value">10.8%</text>
@@ -75,12 +75,12 @@
         <text x="530" y="356" class="label">CSS</text>
         <text x="755" y="356" text-anchor="end" class="value">2.5%</text>
   
-        <circle cx="865" cy="263" r="5" fill="#3178C6"/>
-        <text x="880" y="268" class="repo">moim</text>
-        <text x="1100" y="268" text-anchor="end" class="muted">TypeScript</text>
-        <circle cx="865" cy="307" r="5" fill="#3572A5"/>
-        <text x="880" y="312" class="repo">devkimson-skills</text>
-        <text x="1100" y="312" text-anchor="end" class="muted">Python</text>
+        <circle cx="865" cy="263" r="5" fill="#3572A5"/>
+        <text x="880" y="268" class="repo">devkimson-skills</text>
+        <text x="1100" y="268" text-anchor="end" class="muted">Python</text>
+        <circle cx="865" cy="307" r="5" fill="#3178C6"/>
+        <text x="880" y="312" class="repo">moim</text>
+        <text x="1100" y="312" text-anchor="end" class="muted">TypeScript</text>
         <circle cx="865" cy="351" r="5" fill="#3178C6"/>
         <text x="880" y="356" class="repo">portfolio-renew</text>
         <text x="1100" y="356" text-anchor="end" class="muted">TypeScript</text>
